@@ -1,5 +1,5 @@
 # ds-algorithm
-## linear search
+## 10.linear search
 1. Start.
 2. Input the array elements.
 3. Input the element to be searched (target).
